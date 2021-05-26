@@ -1,7 +1,7 @@
 # FinalDB
 
 ## Database Model
-![DataBase Model](https://imgur.com/a/MOzFgps)
+![DataBase Model](https://imgur.com/gnaJvIs)
 
 ## Tables creation
 ![Tables]()
