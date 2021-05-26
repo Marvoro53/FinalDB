@@ -1,9 +1,13 @@
 # FinalDB
 
 ## Database Model
-![DataBase Model](https://imgur.com/gnaJvIs)
+![DataBase Model](/images/database.png)
 
 ## Tables creation
-![Tables]()
+![Tables](/images/birthdaytable.png)
+
+![Tables](/images/employeestable.png)
 
 ## Queries and description
+
+
