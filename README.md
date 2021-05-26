@@ -9,6 +9,7 @@
 ![Tables](/images/employeestable.png)
 
 ## Queries and description
+
 1. select * from employees order by first_name asc;
 *This query will show the data from employees table by first names in ascending order*
 
