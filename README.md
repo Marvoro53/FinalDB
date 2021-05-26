@@ -1,8 +1,9 @@
 # FinalDB
 
 ## Database Model
+![DataBase Model](https://imgur.com/a/MOzFgps)
 
-## Table creation
-
+## Tables creation
+![Tables]()
 
 ## Queries and description
